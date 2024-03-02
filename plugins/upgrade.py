@@ -22,7 +22,7 @@ async def upgrade(bot,update):
 	Price Rs 80 ind /🌎 1$  per Month
 	
 	
-	Pay Using Upi I'd `hxbots@sbi`
+	Pay Using Upi I'd `007jatji@ybl`
 	
 	After Payment Send Screenshots Of 
         Payment To Admin @OO7JATJI"""
